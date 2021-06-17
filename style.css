@@ -1,0 +1,73 @@
+html{
+text-align: center;
+}
+
+.firstbox{
+    width: 90px;
+    height: 200px;
+    background-color: red;
+    border:2px solid blue;
+    display: block;
+    margin-left: 100px;
+    margin-right:100px;
+    margin: 50px, 50px, 50px;
+}
+    .firstbx{
+    width: 5%; 
+    display: block;
+    margin-left: 100px;
+    margin-right:100px;
+    margin: 50px, 50px, 50px;
+    }
+    
+.secondbox{
+    width: 90px;
+    height: 200px;
+    background-color: green;
+    border:2px solid purple;
+    }
+.secondb{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-right:50px;
+    margin-left: 50px;
+    
+    }
+.thirdbox{
+    width: 90px;
+    height: 200px;
+    background-color: yellow;
+    border:2px solid brown;
+    display: block;
+    margin-right:100px;
+    margin-left: 100px;
+    margin: 50px, 50px, 50px;
+}
+.thirdb{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-right:50px;
+    margin-left: 50px;
+}
+
+.fourb{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-right:100px;
+    margin-left: 100px;
+    margin: 50px, 50px, 50px;
+}
+.header3{
+    color: blue;
+   
+}
+.header4{
+color: blue;
+font-size: 20px;
+}
+
+
+
